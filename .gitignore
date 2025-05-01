@@ -1,0 +1,46 @@
+# Tarayıcı eklentisi derleme ve paketleme dosyaları
+*.crx
+*.pem
+*.zip
+web-ext-artifacts/
+
+# Node.js bağımlılıkları
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# IDE ve editör dosyaları
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Geçici dosyalar
+*.tmp
+*.temp
+*.bak
+
+# Firefox ve Chrome için özel manifest dosyaları
+# manifest-firefox.json gibi özel manifest dosyalarını dahil etmek istiyorsanız
+# bu satırları yorum haline getirebilirsiniz
+# manifest-*.json
+
+# Geliştirme sırasında oluşturulan dosyalar
+dist/
+build/
+*.log
+
+# Ortam değişkenleri ve gizli bilgiler
+.env
+.env.local
+.env.*.local
+
+# Test coverage dosyaları
+coverage/
+
+# Debug dosyaları
+debug/
+*.debug 
