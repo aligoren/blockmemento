@@ -4,7 +4,7 @@ Block Memento is a browser extension that helps you remember why you blocked use
 
 ## Features
 
-- Create block notes for Twitter/X profiles
+- Create notes to remember block reasons for Twitter/X profiles
 - Store notes locally
 - Automatically display notes on profile pages
 - Works on both twitter.com and x.com domains
