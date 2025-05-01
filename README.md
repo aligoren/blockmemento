@@ -18,12 +18,6 @@ Block Memento is a browser extension that helps you remember why you blocked use
    - Click "Load unpacked"
    - Select the downloaded folder
 
-3. In Firefox:
-   - Go to `about:debugging`
-   - Click "This Firefox" tab
-   - Click "Load Temporary Add-on"
-   - Select the manifest.json file in the downloaded folder
-
 ## Usage
 
 1. Go to a user's profile page on Twitter/X
@@ -34,4 +28,3 @@ Block Memento is a browser extension that helps you remember why you blocked use
 ## Requirements
 
 - Chrome 88 or higher
-- Firefox 89 or higher 
